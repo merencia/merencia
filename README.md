@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (1 day ago)
-- [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (4 weeks ago)
-- [node-cron/node-cron.github.io](https://github.com/node-cron/node-cron.github.io) -  (4 weeks ago)
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (2 days ago)
+- [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (1 month ago)
+- [node-cron/node-cron.github.io](https://github.com/node-cron/node-cron.github.io) -  (1 month ago)
 - [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (1 month ago)
 
 #### 🌱 My latest projects
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 week ago)
+- [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 weeks ago)
 - [fix: create id function making it compatible with old node version li…](https://github.com/node-cron/node-cron/pull/455) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [feat: added maxRandomDelay to the tasks](https://github.com/node-cron/node-cron/pull/453) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [v4 - migrating to typescript](https://github.com/node-cron/node-cron/pull/439) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
