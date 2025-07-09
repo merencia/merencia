@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (6 days ago)
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (1 week ago)
 - [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (1 month ago)
 - [node-cron/node-cron.github.io](https://github.com/node-cron/node-cron.github.io) -  (1 month ago)
 - [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) ([v4.0.0](https://github.com/node-cron/node-cron/releases/tag/v4.0.0), 1 month ago) - A simple cron-like job scheduler for Node.js
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) ([v4.0.0](https://github.com/node-cron/node-cron/releases/tag/v4.0.0), 2 months ago) - A simple cron-like job scheduler for Node.js
 
 #### 🔨 My recent Pull Requests
 
