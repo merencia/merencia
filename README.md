@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (today)
-- [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (1 day ago)
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (1 day ago)
+- [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (2 days ago)
 - [node-cron/node-cron.github.io](https://github.com/node-cron/node-cron.github.io) -  (1 month ago)
 - [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (1 month ago)
 
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 weeks ago)
+- [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (3 weeks ago)
 - [fix: create id function making it compatible with old node version li…](https://github.com/node-cron/node-cron/pull/455) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [feat: added maxRandomDelay to the tasks](https://github.com/node-cron/node-cron/pull/453) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [v4 - migrating to typescript](https://github.com/node-cron/node-cron/pull/439) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
@@ -41,7 +41,7 @@
 
 - [oleksandr/irpin_board](https://github.com/oleksandr/irpin_board) - Ortho Column-staggered Handwired Split Keyboard (5 months ago)
 - [caarlos0/transactional](https://github.com/caarlos0/transactional) - a sqlx transaction wrapper for http.Handler (10 months ago)
-- [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (1 year ago)
+- [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (2 years ago)
 - [boralyl/github-custom-component-tutorial](https://github.com/boralyl/github-custom-component-tutorial) - A tutorial for creating a custom component for Home Assistant using GitHub&#39;s API. (2 years ago)
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (2 years ago)
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer (4 years ago)
