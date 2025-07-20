@@ -52,11 +52,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [oluiscabral](https://github.com/oluiscabral)
 - [marcelograciolli](https://github.com/marcelograciolli)
 - [WorkAsGroup](https://github.com/WorkAsGroup)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [matbott](https://github.com/matbott)
-- [bert093](https://github.com/bert093)
 
 #### 💬 Feedback
 
