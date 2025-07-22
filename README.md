@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [oleksandr/irpin_board](https://github.com/oleksandr/irpin_board) - Ortho Column-staggered Handwired Split Keyboard (5 months ago)
+- [oleksandr/irpin_board](https://github.com/oleksandr/irpin_board) - Ortho Column-staggered Handwired Split Keyboard (6 months ago)
 - [caarlos0/transactional](https://github.com/caarlos0/transactional) - a sqlx transaction wrapper for http.Handler (10 months ago)
 - [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (2 years ago)
 - [boralyl/github-custom-component-tutorial](https://github.com/boralyl/github-custom-component-tutorial) - A tutorial for creating a custom component for Home Assistant using GitHub&#39;s API. (2 years ago)
