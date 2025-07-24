@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: removing workflow dispatch ](https://github.com/sidequestjs/sidequest/pull/3) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [build: semantic release](https://github.com/sidequestjs/sidequest/pull/2) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [fix: create id function making it compatible with old node version li…](https://github.com/node-cron/node-cron/pull/455) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
@@ -36,7 +37,6 @@
 - [Added portuguese wordlist](https://github.com/bitpay/bitcore/pull/3193) on [bitpay/bitcore](https://github.com/bitpay/bitcore) (4 years ago)
 - [Fix some portuguese translations](https://github.com/forwardemail/forwardemail.net/pull/95) on [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) (4 years ago)
 - [Adding Glorious Demo developed by Rafael Camargo](https://github.com/felipefialho/awesome-made-by-brazilians/pull/66) on [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) (4 years ago)
-- [Added eslint](https://github.com/node-cron/tz-offset/pull/10) on [node-cron/tz-offset](https://github.com/node-cron/tz-offset) (6 years ago)
 
 #### ⭐ Recent Stars
 
