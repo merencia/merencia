@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) -  (1 day ago)
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (1 week ago)
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (1 day ago)
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (2 weeks ago)
 - [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (2 weeks ago)
 - [node-cron/node-cron.github.io](https://github.com/node-cron/node-cron.github.io) -  (1 month ago)
 - [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (2 months ago)
@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: semantic release](https://github.com/sidequestjs/sidequest/pull/2) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [fix: create id function making it compatible with old node version li…](https://github.com/node-cron/node-cron/pull/455) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [feat: added maxRandomDelay to the tasks](https://github.com/node-cron/node-cron/pull/453) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
@@ -36,11 +37,10 @@
 - [Fix some portuguese translations](https://github.com/forwardemail/forwardemail.net/pull/95) on [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) (4 years ago)
 - [Adding Glorious Demo developed by Rafael Camargo](https://github.com/felipefialho/awesome-made-by-brazilians/pull/66) on [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) (4 years ago)
 - [Added eslint](https://github.com/node-cron/tz-offset/pull/10) on [node-cron/tz-offset](https://github.com/node-cron/tz-offset) (6 years ago)
-- [Added travis](https://github.com/node-cron/tz-offset/pull/9) on [node-cron/tz-offset](https://github.com/node-cron/tz-offset) (6 years ago)
 
 #### ⭐ Recent Stars
 
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) -  (today)
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (1 day ago)
 - [oleksandr/irpin_board](https://github.com/oleksandr/irpin_board) - Ortho Column-staggered Handwired Split Keyboard (6 months ago)
 - [caarlos0/transactional](https://github.com/caarlos0/transactional) - a sqlx transaction wrapper for http.Handler (10 months ago)
 - [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (2 years ago)
