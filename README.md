@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: recurring jobs](https://github.com/sidequestjs/sidequest/pull/12) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [build: removing workflow dispatch ](https://github.com/sidequestjs/sidequest/pull/3) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [build: semantic release](https://github.com/sidequestjs/sidequest/pull/2) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (2 days ago)
 - [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
@@ -36,7 +37,6 @@
 - [Circleci project setup](https://github.com/node-cron/node-cron/pull/326) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (3 years ago)
 - [Added portuguese wordlist](https://github.com/bitpay/bitcore/pull/3193) on [bitpay/bitcore](https://github.com/bitpay/bitcore) (4 years ago)
 - [Fix some portuguese translations](https://github.com/forwardemail/forwardemail.net/pull/95) on [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) (4 years ago)
-- [Adding Glorious Demo developed by Rafael Camargo](https://github.com/felipefialho/awesome-made-by-brazilians/pull/66) on [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) (4 years ago)
 
 #### ⭐ Recent Stars
 
