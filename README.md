@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: revert &#34;feat: unlimited jobs&#34;](https://github.com/sidequestjs/sidequest/pull/22) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [feat: unlimited jobs](https://github.com/sidequestjs/sidequest/pull/21) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [feat: recurring jobs](https://github.com/sidequestjs/sidequest/pull/12) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (4 days ago)
 - [build: removing workflow dispatch ](https://github.com/sidequestjs/sidequest/pull/3) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (5 days ago)
@@ -36,7 +37,6 @@
 - [feat: added maxRandomDelay to the tasks](https://github.com/node-cron/node-cron/pull/453) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
 - [v4 - migrating to typescript](https://github.com/node-cron/node-cron/pull/439) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (3 months ago)
 - [Circleci project setup](https://github.com/node-cron/node-cron/pull/326) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (3 years ago)
-- [Added portuguese wordlist](https://github.com/bitpay/bitcore/pull/3193) on [bitpay/bitcore](https://github.com/bitpay/bitcore) (4 years ago)
 
 #### ⭐ Recent Stars
 
