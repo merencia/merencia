@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: using personal token](https://github.com/sidequestjs/sidequest/pull/25) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [fix: revert unlimited jobs](https://github.com/sidequestjs/sidequest/pull/23) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [fix: revert &#34;feat: unlimited jobs&#34;](https://github.com/sidequestjs/sidequest/pull/22) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [feat: unlimited jobs](https://github.com/sidequestjs/sidequest/pull/21) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
@@ -36,7 +37,6 @@
 - [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
 - [fix: create id function making it compatible with old node version li…](https://github.com/node-cron/node-cron/pull/455) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
 - [feat: added maxRandomDelay to the tasks](https://github.com/node-cron/node-cron/pull/453) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
-- [v4 - migrating to typescript](https://github.com/node-cron/node-cron/pull/439) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (3 months ago)
 
 #### ⭐ Recent Stars
 
