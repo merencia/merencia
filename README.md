@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (1 day ago)
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (today)
 - [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (1 day ago)
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (2 weeks ago)
 - [node-cron/node-cron.github.io](https://github.com/node-cron/node-cron.github.io) -  (1 month ago)
@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: revert unlimited jobs](https://github.com/sidequestjs/sidequest/pull/23) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [fix: revert &#34;feat: unlimited jobs&#34;](https://github.com/sidequestjs/sidequest/pull/22) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [feat: unlimited jobs](https://github.com/sidequestjs/sidequest/pull/21) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [feat: recurring jobs](https://github.com/sidequestjs/sidequest/pull/12) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (4 days ago)
@@ -36,7 +37,6 @@
 - [fix: create id function making it compatible with old node version li…](https://github.com/node-cron/node-cron/pull/455) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
 - [feat: added maxRandomDelay to the tasks](https://github.com/node-cron/node-cron/pull/453) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
 - [v4 - migrating to typescript](https://github.com/node-cron/node-cron/pull/439) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (3 months ago)
-- [Circleci project setup](https://github.com/node-cron/node-cron/pull/326) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (3 years ago)
 
 #### ⭐ Recent Stars
 
