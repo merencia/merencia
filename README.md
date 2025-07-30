@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: min concurrency](https://github.com/sidequestjs/sidequest/pull/28) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [fix: release](https://github.com/sidequestjs/sidequest/pull/26) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [fix: using personal token](https://github.com/sidequestjs/sidequest/pull/25) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [fix: revert unlimited jobs](https://github.com/sidequestjs/sidequest/pull/23) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
@@ -36,7 +37,6 @@
 - [build: removing workflow dispatch ](https://github.com/sidequestjs/sidequest/pull/3) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (6 days ago)
 - [build: semantic release](https://github.com/sidequestjs/sidequest/pull/2) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 week ago)
 - [fix: overlap](https://github.com/node-cron/node-cron/pull/462) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (1 month ago)
-- [fix: create id function making it compatible with old node version li…](https://github.com/node-cron/node-cron/pull/455) on [node-cron/node-cron](https://github.com/node-cron/node-cron) (2 months ago)
 
 #### ⭐ Recent Stars
 
