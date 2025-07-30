@@ -53,11 +53,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [marcelograciolli](https://github.com/marcelograciolli)
 - [WorkAsGroup](https://github.com/WorkAsGroup)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [matbott](https://github.com/matbott)
-- [bert093](https://github.com/bert093)
 
 #### 💬 Feedback
 
