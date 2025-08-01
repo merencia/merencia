@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) ([v1.0.0](https://github.com/sidequestjs/sidequest/releases/tag/v1.0.0), today) - Sidequest is a modern, scalable background job processor for Node.js applications.
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) ([v1.1.0](https://github.com/sidequestjs/sidequest/releases/tag/v1.1.0), today) - Sidequest is a modern, scalable background job processor for Node.js applications.
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) ([v4.0.0](https://github.com/node-cron/node-cron/releases/tag/v4.0.0), 2 months ago) - A simple cron-like job scheduler for Node.js
 
 #### 🔨 My recent Pull Requests
