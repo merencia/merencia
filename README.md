@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (1 day ago)
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (today)
 - [node-cron/node-cron-site](https://github.com/node-cron/node-cron-site) -  (4 days ago)
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js (3 weeks ago)
 - [node-cron/node-cron.github.io](https://github.com/node-cron/node-cron.github.io) -  (1 month ago)
@@ -23,20 +23,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) ([v1.0.0](https://github.com/sidequestjs/sidequest/releases/tag/v1.0.0), today) - Sidequest is a modern, scalable background job processor for Node.js applications.
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) ([v4.0.0](https://github.com/node-cron/node-cron/releases/tag/v4.0.0), 2 months ago) - A simple cron-like job scheduler for Node.js
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add develop branch configuration for prerelease and channel settings](https://github.com/sidequestjs/sidequest/pull/46) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
+- [Release: v1.0.0](https://github.com/sidequestjs/sidequest/pull/45) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
+- [release: 1.0.0](https://github.com/sidequestjs/sidequest/pull/44) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
+- [release 1.0.0](https://github.com/sidequestjs/sidequest/pull/43) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (today)
 - [docs: examples](https://github.com/sidequestjs/sidequest/pull/35) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 day ago)
 - [fix: min concurrency](https://github.com/sidequestjs/sidequest/pull/28) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (2 days ago)
 - [fix: release](https://github.com/sidequestjs/sidequest/pull/26) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (3 days ago)
 - [fix: using personal token](https://github.com/sidequestjs/sidequest/pull/25) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (3 days ago)
 - [fix: revert unlimited jobs](https://github.com/sidequestjs/sidequest/pull/23) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (3 days ago)
 - [fix: revert &#34;feat: unlimited jobs&#34;](https://github.com/sidequestjs/sidequest/pull/22) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (3 days ago)
-- [feat: unlimited jobs](https://github.com/sidequestjs/sidequest/pull/21) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (4 days ago)
-- [feat: recurring jobs](https://github.com/sidequestjs/sidequest/pull/12) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 week ago)
-- [build: removing workflow dispatch ](https://github.com/sidequestjs/sidequest/pull/3) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 week ago)
-- [build: semantic release](https://github.com/sidequestjs/sidequest/pull/2) on [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) (1 week ago)
 
 #### ⭐ Recent Stars
 
