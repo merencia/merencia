@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (1 week ago)
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications. (today)
 - [oleksandr/irpin_board](https://github.com/oleksandr/irpin_board) - Ortho Column-staggered Handwired Split Keyboard (6 months ago)
 - [caarlos0/transactional](https://github.com/caarlos0/transactional) - a sqlx transaction wrapper for http.Handler (10 months ago)
 - [merencia/amt8000-hass-integration](https://github.com/merencia/amt8000-hass-integration) - Intelbras AMT-8000 Home Assistant Integration (2 years ago)
